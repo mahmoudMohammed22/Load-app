@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#07C2AA</color>
+    <color name="colorPrimaryDark">#004349</color>
+    <color name="colorAccent">#F9A825</color>
+    <color name="backColor">#004349</color>
+    <color name="mtg_blue">#00a8ff</color>
+    <color name="mtg_black">#000000</color>
+    <color name="mtg_red">#ff0000</color>
+    <color name="mtg_green">#319c1f</color>
+    <color name="mtg_other">#aab4ba</color>
+    <color name="white">#FFF</color></resources>
