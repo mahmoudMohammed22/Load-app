@@ -19,7 +19,7 @@ A notification will be sent once the download is complete. When a user clicks on
 
 ## Screen
 
-![screen 1](https://user-images.githubusercontent.com/58629019/213781387-ec8245e7-9fbd-442b-99c7-978f402febf2.jpg,https://user-images.githubusercontent.com/58629019/213781391-fd0441ba-9fda-49b1-ab03-9ae338e97d6b.jpg)
+![screen 1](https://user-images.githubusercontent.com/58629019/213781387-ec8245e7-9fbd-442b-99c7-978f402febf2.jpg)(https://user-images.githubusercontent.com/58629019/213781391-fd0441ba-9fda-49b1-ab03-9ae338e97d6b.jpg)
 ![screen 2](https://user-images.githubusercontent.com/58629019/213781391-fd0441ba-9fda-49b1-ab03-9ae338e97d6b.jpg)
 ![screen 3](https://user-images.githubusercontent.com/58629019/213781393-cc143de8-6fcc-4620-8ce1-a51cc99ddea0.jpg)
 ![screen Detail 4](https://user-images.githubusercontent.com/58629019/213781395-aa97734a-0a3a-4c2f-aabd-748cc446e927.jpg)
